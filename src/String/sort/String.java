@@ -17,7 +17,7 @@ public class String {
         for (int i = 0; i < One.length; i++) System.out.println(One[i]);
         System.out.println(One.length);
 
-        System.out.println("Начинаем сортировку");
+        System.out.println("Начинаем сортировку ");
         sleep(2000);
 
         Arrays.sort(One);
